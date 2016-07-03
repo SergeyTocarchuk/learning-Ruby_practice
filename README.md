@@ -1,1 +1,1 @@
-# learning-Ruby_practice
+# challenges from Exercism (http://exercism.io/SergeyTocarchuk)
