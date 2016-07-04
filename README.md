@@ -1,1 +1,0 @@
-# challenges from Exercism (http://exercism.io/SergeyTocarchuk)
